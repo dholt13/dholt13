@@ -5,6 +5,10 @@
 - [Password Strength Checker](https://github.com/dholt13/Password-Strength-Checker)
 - [File Intergity Project](https://github.com/dholt13/File-Integrity-Monitor)
 
+<h2>👨‍💻 Networking Projects:</h2>
+
+- [SOHO Network Projects](https://github.com/dholt13/SOHO-Network-Project)
+
 <h2>Certifications</h2>
 
 - [CompTIA ITF+](https://www.youtube.com/watch?v=a83ASGn_V_s)
