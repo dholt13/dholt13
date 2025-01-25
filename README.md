@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- [SOHO Network Projects](https://github.com/dholt13/SOHO-Network-Project)
+- [SOHO Network Project](https://github.com/dholt13/SOHO-Network-Project)
 
 <h2>Certifications</h2>
 
