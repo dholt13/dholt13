@@ -1,6 +1,6 @@
 <h1>Hi, I'm Deanna! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
-<p>I’m passionate about cybersecurity and enjoy building hands-on projects that solve real problems. Whether it’s automating risk assessments, exploring threat detection techniques, or strengthening security processes, I love diving into the constantly evolving world of security and GRC. My GitHub showcases the work I’ve put into improving security operations, understanding risks, and creating tools that make organizations more secure.</p>
+<p>I’m passionate about cybersecurity and enjoy building hands-on projects that solve real problems. Whether it’s automating risk assessments, exploring threat detection techniques, or strengthening security processes, I love diving into the constantly evolving world of security. My GitHub showcases the work I’ve put into improving security operations, understanding risks, and creating tools that make organizations more secure.</p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
