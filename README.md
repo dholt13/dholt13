@@ -7,6 +7,7 @@
 - [Password Strength Checker](https://github.com/dholt13/Password-Strength-Checker)
 - [File Intergity Project](https://github.com/dholt13/File-Integrity-Monitor)
 - [Vulnerability Management Program Implementation](https://github.com/dholt13/Vulnerability-Management-Program)
+- [Azure Cloud-Native SOC and Honeypot Lab](https://github.com/dholt13/Azure-Cloud-Native-SOC-and-Honeypot-Lab)
 
 <h2>👨‍💻 Networking Projects:</h2>
 
